@@ -1,6 +1,6 @@
  ### Who Am I?
-- 👨🏻‍💻 Computer Science Student at [University of Texas at Arlington](https://academicpartnerships.uta.edu/)
-- 🤹🏼‍♂️ Software Engineer at [Hawk Ridge System](https://hawkridgesys.com/)
+- 📚 Computer Science Student at [University of Texas at Arlington](https://academicpartnerships.uta.edu/)
+- 👨🏻‍💻 Software Engineer at [Hawk Ridge System](https://hawkridgesys.com/)
 - 📍 Dallas, Texas 
 
 ### What Am I Working On?
