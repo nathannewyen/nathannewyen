@@ -4,6 +4,7 @@
 - 📍 Dallas, Texas 
 
 ### What Am I Working On?
+- 🗒 Personal Blog with React/Typescript/GraphQL and Gatsby
 - 📱 I'm working on React/React Native and getting better at it.
 - 🌵 Working on myself and trying to be a better person.
 
