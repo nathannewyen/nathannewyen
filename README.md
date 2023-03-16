@@ -1,7 +1,7 @@
  ### Who Am I?
 - 📚 Computer Science Student at [University of Texas at Arlington](https://academicpartnerships.uta.edu/)
 - 👨🏻‍💻 Software Engineer at [JPMorgan Chase](https://www.chase.com/)
-- 📍 Dallas, Texas 
+- 📍 Atlanta, Georgia
 
 ### What Am I Working On?
 - 🗒 Personal Mobile App with React Native/Typescript/GraphQL and NodeJS
