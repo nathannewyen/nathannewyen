@@ -1,5 +1,5 @@
  ### Who Am I?
-- 📚 Computer Science Student at [University of Texas at Arlington](https://academicpartnerships.uta.edu/)
+- 📚 Bachelor of Computer Science at [University of Texas at Arlington](https://academicpartnerships.uta.edu/)
 - 👨🏻‍💻 Software Engineer at [JPMorgan Chase](https://www.chase.com/)
 - 📍 Atlanta, Georgia
 
