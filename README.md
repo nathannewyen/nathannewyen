@@ -1,7 +1,6 @@
  ### Who Am I?
 - 📚 Bachelor of Computer Science at [University of Texas at Arlington](https://academicpartnerships.uta.edu/)
 - 👨🏻‍💻 Software Engineer at [JPMorgan Chase](https://www.chase.com/)
-- 📱 Mobile Engineer for DormList
 - 📍 Atlanta, Georgia
 
 ### What Am I Working On?
