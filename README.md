@@ -7,4 +7,5 @@
 - 📍 Atlanta, Georgia
 
 ### What Am I Working On?
-- Building Grably, my own startup—focused on simplifying food distribution with modern tech
+- 🚀 Building Grably, my own startup—focused on simplifying food distribution with modern tech
+- 🌐 Contributing to open source projects like [Kubernetes](https://github.com/kubernetes/kubernetes)
