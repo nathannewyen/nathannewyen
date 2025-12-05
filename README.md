@@ -9,4 +9,4 @@
   - Traefik Proxy[https://github.com/traefik/traefik]
   - Flutter Plus Plugins[https://github.com/fluttercommunity/plus_plugins]
   - React Native [https://github.com/facebook/react-native]
-  - 
+  - Stylint [https://github.com/stylelint/stylelint]
